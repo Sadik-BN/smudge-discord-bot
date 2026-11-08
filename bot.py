@@ -1,4 +1,4 @@
-#Hosted in https://quaxly.com/
+#Hosted in https://altare.gg/en/
 
 
 import asyncio
